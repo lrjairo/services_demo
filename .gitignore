@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# DuckDB databases
+*.duckdb
+*.duckdb.wal
+
+# dlt pipeline artifacts
+.dlt/
